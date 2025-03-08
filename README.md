@@ -13,17 +13,17 @@
 * JavaScript
 
 ## 📌 Funcionalidades
-✅ Bienvenido al viaje de la programacion
-✅ Hola viajero programador 
-✅ Aparece un mago 
-✅ Debes responder a sus preguntas para adquirir sabiduria
+✅ Es una modesta pagina de formulario
+✅ Con tema de bender el tremendo de Futurama
+✅ En el cual deberas reponder una sencillas preguntas
+✅ Al final recibiras un mensaje inesperado
 
 ## 🎲 Cómo usarlo
 1. Ingresa en este enlace:
 https://portafolio-nine-plum-61.vercel.app/
-2. Activa el boton de la Banda Sonora 
-3. Contesta las preguntas que te hace el Mago
-4. Listo! que tengas buen viaje! 
+2. Responde las preguntas
+3. Solo da clic para avanzar
+4. Listo! que tengas un buen dia! 
 
 ## Hecho por:
 
