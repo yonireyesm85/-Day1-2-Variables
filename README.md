@@ -19,8 +19,7 @@
 ✅ Al final recibiras un mensaje inesperado
 
 ## 🎲 Cómo usarlo
-1. Ingresa en este enlace:
-https://portafolio-nine-plum-61.vercel.app/
+1. Ingresa en este enlace: https://day1-2-variables.vercel.app/
 2. Responde las preguntas
 3. Solo da clic para avanzar
 4. Listo! que tengas un buen dia! 
